@@ -2,7 +2,7 @@
 
 > Create a postgres database using  data from Cricsheet
 
-A project to download ball by ball JSON files from Cricsheet and store the data in a postgres database. 
+A project to download ball by ball JSON files from [Cricsheet](https://cricsheet.org/) and store the data in a postgres database. 
 
 Currently it will only download T20 international matches but I plan to update it to handle all the different match types soon.
 
