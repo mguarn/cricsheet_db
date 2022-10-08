@@ -1,4 +1,4 @@
-# Cricsheet_DB
+# cricsheet_db
 
 > Create a postgres database using  data from Cricsheet
 
